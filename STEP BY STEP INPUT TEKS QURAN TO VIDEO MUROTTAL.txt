@@ -1,0 +1,21 @@
+1. Ayo melatih logika! Jika terdapat ayat dalam surat Yasin إنك لمن المرسلين maka dapat disimpulkan bahwa kata awal adalah إنك dan kata akhirnya adalah المرسلين. Tolong Sebutkan kata awal dan kata akhir dari setiap ayat dari surat Yasin tersebut dilengkapi dengan basmalah di awal surat
+
+2. Sesuai logika dan teks di atas, kelompokkan dalam tabel ada di baris baris ke berapa kata awal dan kata akhir dari setiap ayat dari surat quran ke 36 (termasuk basmalah) di SRT di atas beserta catatan durasinya, tambahkan satu kolom merge durasi awal ke durasi akhir setiap ayat (tampilkan durasi SRT)
+
+3. Rilis durasi gabungan dalam format SRT dari nomor ayat 0-83 sesuai data tabel di atas
+
+4. Rilis durasi gabungan dalam format SRT dari nomor ayat 0-83 sesuai data tabel di atas dan taruh di kolom baru
+
+5. Buka teks Al-quran di GitHub yang sudah disediakan kemudian copy dan tulis perintah di atas naskah:
+Isi durasi gabungan tersebut dengan naskah berikut sesuai urutan: بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ 0
+يٰسۤ ۚ ١
+وَالْقُرْاٰنِ الْحَكِيْمِۙ ٢
+اِنَّكَ لَمِنَ الْمُرْسَلِيْنَۙ ٣
+عَلٰى صِرَاطٍ مُّسْتَقِيْمٍۗ ٤
+
+6. Copy hasil SRT dan pastekan di rapidtables.com dan di notepadnya dan simpan sebagai file SRT
+
+7. Import file SRT ke CapCut
+
+8. Selesai dan periksa Kembali baik durasi SRT maupun ayat
+
